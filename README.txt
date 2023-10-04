@@ -1,1 +1,1 @@
-This is my portfolio for the Computer Science Lab final accessment.
+This is my portfolio website.
